@@ -11,7 +11,7 @@ This repository showcases an interactive Tableau dashboard built using the Airbn
 
 ## 🖼 Dashboard Preview
 
-![Airbnb Dashboard](images/airbnb_dashboard.png)
+![Airbnb Dashboard](airbnb_dashboard.png)
 
 ---
 
