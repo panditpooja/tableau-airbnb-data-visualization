@@ -28,9 +28,11 @@ This Tableau dashboard explores key aspects of the Airbnb dataset:
 
 ## 📂 Repository Contents
 
-| File                                           | Description                                           |
-|------------------------------------------------|-------------------------------------------------------|
-| `AirBnB Dataset Tableau Visualization.twbx`   | Tableau packaged workbook containing the dashboard.   |
+| File                                               | Description                                                  |
+|-----------------------------------------------------|--------------------------------------------------------------|
+| `AirBnB Dataset Tableau Visualization.twbx`        | Tableau packaged workbook containing the dashboard.          |
+| `airbnb_dashboard.png`                              | Screenshot of the Airbnb Tableau dashboard.                  |
+| `README.md`                                         | Project documentation and overview.                          |
 
 ---
 
